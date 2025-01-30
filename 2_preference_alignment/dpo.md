@@ -20,7 +20,7 @@ The core innovation of DPO lies in its direct optimization approach. Rather than
 
 Datasets for DPO are typically created by annotating pairs of responses as preferred or non-preferred. This can be done manually or using automated filtering techniques. Below is an example structure of single turn preference dataset for DPO:
 
-| Prompt | Chosen | Rejected |
+| Prompt | Chosen | Rejected |http://localhost:8888/lab?token=9b765a18bbaf72477b5da5416b994cf38d0eb201300fa7ce
 |--------|--------|----------|
 | ...    | ...    | ...      |
 | ...    | ...    | ...      |
